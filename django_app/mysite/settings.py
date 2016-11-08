@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'ec2-52-78-222-222.ap-northeast-2.compute.amazonaws.com',
+    '.bricknotfound.com',
 ]
 
 
